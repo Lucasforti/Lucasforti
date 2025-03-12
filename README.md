@@ -1,8 +1,11 @@
 ## Hi, i'm Lucas Forti👋
 
 🎯 Atuo como profissional de QA há 2 anos numa multinacional italiana.
+
 🛠️ Minhas habilidades estão em Testes Manuais, Criação de Testes Regressivos e iniciando Testes Automatizados.
-🚀 Principais tecnologias trabalhadas são Cypress, Selenium, Playwright, Postman, GitHub Actions;
+
+🚀 Principais tecnologias trabalhadas são Cypress, Selenium, Playwright, Postman, GitHub Actions.
+
 🎓 Graduado em Análise e Desenvolvimento de Sistemas. A caminho da Certificação Internacional ISTQB - CTFL.
 
 <!--
