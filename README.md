@@ -1,4 +1,4 @@
-## Hi, i'm Lucas Forti👋
+## Olá, sou Lucas Forti, bem-vindo ao meu GitHub!👋
 
 🎯 Atuo como profissional de QA há 2 anos numa multinacional italiana.
 
