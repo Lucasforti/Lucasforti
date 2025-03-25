@@ -4,7 +4,7 @@
 
 🛠️ Minhas habilidades estão em Testes Manuais, Criação de Testes Regressivos e iniciando Testes Automatizados.
 
-🚀 Principais tecnologias trabalhadas são Cypress, Selenium, Playwright, Postman, GitHub Actions.
+🚀 Principais tecnologias trabalhadas são Cypress, Postman, GitHub Actions.
 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas. A caminho da Certificação Internacional ISTQB - CTFL.
 
